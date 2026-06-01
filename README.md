@@ -117,7 +117,8 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 ### -> Author
 
-**Sparsh Rastogi And Abhay Pratap Singh**
+**ANSH PREM**
+**2302CS01**
 AI Branch, IIT Patna
 
 
