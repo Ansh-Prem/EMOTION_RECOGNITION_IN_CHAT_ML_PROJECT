@@ -119,7 +119,7 @@ Embedding Layer → LSTM Layer → Dropout → Dense Layer (Softmax)
 
 **ANSH PREM**
 **2302CS01**
-AI Branch, IIT Patna
+CSE Department, IIT Patna
 
 
 ---
